@@ -102,6 +102,6 @@ This project is released under the [MIT License](LICENSE).
 ## About the Author
 
 **Raphaël Essengue**  
-Université Panthéon-Assas – Master’s Student in Finance (Financial Markets)
-Interested in **Sales & Trading, Quantitative Research and Macroeconomic Modeling**.  
+- Université Panthéon-Assas – Master’s Student in Finance (Financial Markets)
+- Interested in **Sales & Trading, Quantitative Research and Macroeconomic Modeling**.  
 [LinkedIn Profile](https://www.linkedin.com/in/raphael-essengue/)
