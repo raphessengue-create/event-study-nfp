@@ -73,7 +73,7 @@ Displays the **heterogeneity of individual market reactions** across different N
 ![US10Y Individual](figures/individual_%20US10Y_reactions.png)
 
 
-### Reaction by Surprise Type
+### Reactions by Surprise Type
 Differentiates market behavior following *positive* vs *negative* NFP surprises.
 
 ![EURUSD Surprise](figures/EURUSD_average_reaction_NFP_surprise_type.png)
@@ -103,5 +103,5 @@ This project is released under the [MIT License](LICENSE).
 
 **Raphaël Essengue**  
 - Université Panthéon-Assas – Master’s Student in Finance (Financial Markets)
-- Interested in **Sales & Trading, Quantitative Research and Macroeconomic Modeling**.  
+- Interested in **Sales & Trading, Quantitative Research and Macroeconomic Modeling**  
 [LinkedIn Profile](https://www.linkedin.com/in/raphael-essengue/)
