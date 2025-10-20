@@ -56,6 +56,7 @@ event-study-nfp/
 ├─ requirements.txt
 ├─ README.md
 └─ LICENSE
+```
 
 
 ## Key Results
