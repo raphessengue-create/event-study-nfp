@@ -68,7 +68,7 @@ Shows the **average cumulative variation** of EUR/USD and US10Y around NFP annou
 Displays the **heterogeneity of individual market reactions** across different NFP releases.
 
 ![EURUSD Individual](figures/individual_EURUSD_reactions.png)
-![US10Y Individual](figures/individual_US10Y_reactions.png)
+![US10Y Individual](figures/individual_%20US10Y_reactions.png)
 
 
 ### Reaction by Surprise Type
