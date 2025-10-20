@@ -70,6 +70,7 @@ Displays the **heterogeneity of individual market reactions** across different N
 ![EURUSD Individual](figures/individual_EURUSD_reactions.png)
 ![US10Y Individual](figures/individual_US10Y_reactions.png)
 
+
 ### Reaction by Surprise Type
 Differentiates market behavior following *positive* vs *negative* NFP surprises.
 
